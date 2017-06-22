@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Anlprz_CategoryAttribute>
+            <version>1.0.0</version>
+        </Anlprz_CategoryAttribute>
+    </modules>
+     
+    <global>
+        <resources>
+            <anlprz_categoryattribute_setup>
+                <setup>
+                    <module>Anlprz_CategoryAttribute</module>
+                    <class>Mage_Catalog_Model_Resource_Eav_Mysql4_Setup</class>
+                </setup>
+            </anlprz_categoryattribute_setup>
+        </resources>
+        
+    </global>
+    
+</config>

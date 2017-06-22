@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!-- 
+/**
+ * Asmex
+ *
+ * @category   Anlprz
+ * @package    Anlprz_CategoryAttribute
+ * @author     Anil Prajapati <anilprz3@gmail.com>
+ * @copyright  Copyright (c) 2017.
+ */
+
+ -->
+<config>
+    <modules>
+        <Anlprz_CategoryAttribute>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Anlprz_CategoryAttribute>
+    </modules>
+</config> 
